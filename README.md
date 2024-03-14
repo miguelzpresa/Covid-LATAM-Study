@@ -84,6 +84,55 @@ List all references cited in the research.
 
 ## IX. Appendices
 
-- Details of Datasets Used
+### Details of Datasets Used  
+----
+Bolivia: https://datos.gob.bo/group/salud                                                                                                                           Ecuador: https://www.salud.gob.ec/datos-abiertos/
+https://almacenamiento.msp.gob.ec/index.php/s/MAIhh1064vsKRbL
+Brasil: https://dados.gov.br/dados/conjuntos-dados/registro-de-ocupacao-hospitalar-covid-19
+
+argentina:
+
+- https://datos.gob.ar/dataset/salud-covid-19-casos-registrados-republica-argentina/archivo/salud_fd657d02-a33a-498b-a91b-2ef1a68b8d16
+- http://datos.salud.gob.ar/dataset?groups=covid-19
+
+El Salvador
+
+- https://tableros.mspas.gob.gt/covid/
+- [https://elsalvador.un.org/sites/default/files/2020-05/El Salvador - COVID-19 - Informe de situación No. 9 - Al 26 de mayo 2020.pdf](https://elsalvador.un.org/sites/default/files/2020-05/El%20Salvador%20-%20COVID-19%20-%20Informe%20de%20situaci%C3%B3n%20No.%209%20-%20Al%2026%20de%20mayo%202020.pdf)
+- **Puede leer también: [OMS reconfirma que Gobierno de El Salvador manipuló datos de muertes covid-19](https://www.elsalvador.com/noticias/nacional/oms-coronavirus-fallecidos-por-covid-19/953482/2022/)**
+
+Guatemala
+
+- https://www.reuters.com/graphics/world-coronavirus-tracker-and-maps/es/countries-and-territories/guatemala/
+
+https://github.com/ncovgt2020/ncovgt2020
+
+Uruguay
+
+- https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/informe-epidemiologico-covid-19-actualizado-18-enero-2021
+- https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay
+- https://www.gub.uy/ministerio-salud-publica/comunicacion/publicaciones/semana-epidemiologica-17-del-240422-300422-casos-covid19-0
+
+Paraguay 
+
+- https://dgvs.mspbs.gov.py/mapa-de-riesgo-covid-19/
+- https://www.mspbs.gov.py/reportes-covid19.html
+
+Casos confirmados en chile minsal.cl 
+Cifras oficiales gob.cl  
+atos ministerio de salud datos.gob.cl  
+Honduras  
+Honduras
+
+Honduras presenta un problema similar en su página de la secretaria de salud  
+
+Nicaragua
+Costa Rica
+
+
+
+
+----
+
 - Code Repository
 - Supplementary Material
