@@ -2,12 +2,14 @@
 
 Final Project for UNAM - TICs - Repositorios Digitales 2024-2 class, taught by Dr. Arturo López Pineda
 
-![mapa](https://github.com/miguelzpresa/Covid-LATAM-Study/assets/49998408/33232a0e-c79c-488c-9e43-18d3782a4c82)
 
 [Covid Final_Project.pdf](https://github.com/miguelzpresa/Covid-LATAM-Study/blob/d94ce713be7a00309a500d2914766758c06c5e3c/Covid.pdf)
-![image](https://github.com/user-attachments/assets/6b1d9fe2-cfee-4c1e-abdd-697a475ef164)
+[![image](https://github.com/user-attachments/assets/6b1d9fe2-cfee-4c1e-abdd-697a475ef164)](https://github.com/miguelzpresa/Covid-LATAM-Study/blob/d94ce713be7a00309a500d2914766758c06c5e3c/Covid.pdf)
 
 ## I. Introduction
+
+
+![mapa](https://github.com/miguelzpresa/Covid-LATAM-Study/assets/49998408/33232a0e-c79c-488c-9e43-18d3782a4c82)
 
 ### Background and Context
 Provide context and background information about the project.
